@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alireza4791
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any front end project using html, css, js, react, sass, wp, bootstrap
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on any web based project using html, css, js, react, sass, wp, bootstrap, php
+- 📫 How to reach me alireza-gh.com
 
 <!---
 alireza4791/alireza4791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
